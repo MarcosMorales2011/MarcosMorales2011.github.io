@@ -21,7 +21,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/https://github.com/MarcosMorales2011/MarcosMorales2011.github.io/blob/master/assets/img/ESZCHB482-W019LUK3RKK-5a00658fd022-192.png"
+avatar: "/assets/img/ESZCHB482-W019LUK3RKK-5a00658fd022-192.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -94,7 +94,7 @@ feed_show_tags: true
 navbar-col: "#66dbf25"
 navbar-text-col: "#404040"
 navbar-border-col: "#66dbf2"
-page-col: "#FFFFFF"
+page-col: "#66dbf2"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
